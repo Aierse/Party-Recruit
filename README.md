@@ -7,5 +7,5 @@
 </a>
 
 ## Skills
-* Frontend : reactJS, Typescript
+* Frontend : React, Typescript, Vite 
 * Backend : NodeJS(NestJS), Typescript
